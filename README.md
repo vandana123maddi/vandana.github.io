@@ -1,6 +1,6 @@
 # vandana.github.io 
 # My profile 
-  mainly used css java
+  mainly used css scss java
    
 
 
